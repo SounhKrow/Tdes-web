@@ -1,5 +1,5 @@
 # Tdes-web
-tde1{
+<!-- tde1{
     1.Peça um número e informe se ele é:
 ● Positivo
 ● Negativo
@@ -48,4 +48,4 @@ Informe:
 10. Peça a idade de duas pessoas e informe:
 ● Quem é mais velho
 ● Se têm a mesma idade
-}
+} -->
