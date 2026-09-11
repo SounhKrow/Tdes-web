@@ -91,4 +91,4 @@ percentual = (qtd6 / 50) * 100
 print("Lançamentos:", dado)
 print(f"A face 6 saiu {qtd6} vezes")
 print(f"Percentual de ocorrências da face 6: {percentual:.2f}%")
-"""
+""""
